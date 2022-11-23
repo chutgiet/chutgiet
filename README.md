@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dau Giet, a 2nd year Computer Science major at the University of Saskatchewan. 
+- 👋 Hi, I’m Chut Giet, a 2nd year Computer Science major at the University of Saskatchewan. 
 - 👀 I’m interested in software development, especially in business and agricultural industries. 
 - 🌱 I’ve been coding in Python for the last 1 year, and currenly learning C (cmpt 214), and OOP in Java (cmpt 270).
 - 💞️ I’m looking to collaborate on Py projects especially in software development
