@@ -1,14 +1,11 @@
 <div align="center">
 
 # Hey, I'm Chut 👋
-
 **Software Developer · CS & Math @ University of Saskatchewan**
-
-Building scalable enterprise software, cloud-native systems, and AI-powered tools.
+<br>Building scalable enterprise software, cloud-native systems, and AI-powered tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chutgiet/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chut.giet@usask.ca)
-
 </div>
 
 ---
@@ -42,7 +39,6 @@ Building scalable enterprise software, cloud-native systems, and AI-powered tool
 ### 🛠️ Tech Stack
 
 **Languages**
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -53,7 +49,6 @@ Building scalable enterprise software, cloud-native systems, and AI-powered tool
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -61,7 +56,6 @@ Building scalable enterprise software, cloud-native systems, and AI-powered tool
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 **Backend & Databases**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -70,7 +64,6 @@ Building scalable enterprise software, cloud-native systems, and AI-powered tool
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Cloud & DevOps**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -78,7 +71,6 @@ Building scalable enterprise software, cloud-native systems, and AI-powered tool
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 **Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -88,26 +80,14 @@ Building scalable enterprise software, cloud-native systems, and AI-powered tool
 
 ### 🚀 Featured Project
 
-<table>
-<tr>
-<td>
-
-**🔍 TraceReplay AI** *(Feb 2026 – Present)*
-
-An audit-grade replay and lineage platform for enterprise AI agents. Captures prompts, context, tool calls, approvals, and downstream side effects for debugging, compliance, and incident investigation.
-
+**🔍 TraceReplay AI** *(Feb 2026 – Present)* — An audit-grade replay and lineage platform for enterprise AI agents. Captures prompts, context, tool calls, approvals, and downstream side effects for debugging, compliance, and incident investigation.
 `OpenTelemetry` `Python` `TypeScript` `Ollama`
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### 📜 Certifications
 
-- **Artificial Intelligence** — IBM
-- **Internet Security** — Cisco
+- **Artificial Intelligence** — IBM · **Internet Security** — Cisco
 
 ---
 
@@ -126,5 +106,4 @@ An audit-grade replay and lineage platform for enterprise AI agents. Captures pr
 *Open to open source collaboration opportunities starting May 2026 — let's connect!*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chutgiet/)
-
 </div>
