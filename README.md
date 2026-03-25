@@ -18,7 +18,6 @@
 - 🔭 Currently building **TraceReplay AI** — an audit-grade replay & lineage platform for enterprise AI agents for compliance, traceability, and debugging
 - 🏆 WUSC Student Refugee Program scholarship recipient · 2nd place at UofCalgary Fall Open Debate Championship
 
----
 
 ### 🏢 Experience
 
@@ -83,7 +82,6 @@
 **🔍 TraceReplay AI** *(Feb 2026 – Present)* — An audit-grade replay and lineage platform for enterprise AI agents. Captures prompts, context, tool calls, approvals, and downstream side effects for debugging, compliance, and incident investigation.
 `OpenTelemetry` `Python` `TypeScript` `Ollama`
 
----
 
 ### 📜 Certifications
 
@@ -94,9 +92,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=4" width="49%" />
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=4" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=4" width="34%" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=4" width="39.52%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true" width="73.55%" />
 </div>
 
 ---
