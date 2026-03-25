@@ -80,7 +80,7 @@
 ### 🚀 Featured Project
 
 **🔍 TraceReplay AI** *(Feb 2026 – Present)* — An audit-grade replay and lineage platform for enterprise AI agents. Captures prompts, context, tool calls, approvals, and downstream side effects for debugging, compliance, and incident investigation.
-`OpenTelemetry` `Python` `TypeScript` `Ollama`
+`OpenTelemetry` `Python` `TypeScript` `Ollama` `MCP Servers`
 
 
 ### 📜 Certifications
