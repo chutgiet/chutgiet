@@ -1,0 +1,11 @@
+name: Keep Vercel Warm
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -s "https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet" > /dev/null
+          curl -s "https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet" > /dev/null
