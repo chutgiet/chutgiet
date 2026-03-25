@@ -115,9 +115,9 @@ An audit-grade replay and lineage platform for enterprise AI agents. Captures pr
 
 <div align="center">
 
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=3" height="170" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=4" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=2" height="170" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=4" height="170" />
 
 </div>
 
@@ -125,7 +125,7 @@ An audit-grade replay and lineage platform for enterprise AI agents. Captures pr
 
 <div align="center">
 
-*Open to full-time opportunities starting May 2026 — let's connect!*
+*Open to open source collaboration opportunities starting May 2026 — let's connect!*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chutgiet/)
 
