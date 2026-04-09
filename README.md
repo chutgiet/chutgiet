@@ -92,9 +92,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=1" width="34%" />
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=1" width="39.52%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true&v=1" width="73.55%" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=12" width="34%" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=12" width="39.52%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true&v=12" width="73.55%" />
 </div>
 
 ---
