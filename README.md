@@ -12,9 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 4th year **BSc. Computer Science** with a **Mathematics minor** at the University of Saskatchewan (graduating May 2026)
-- 💼 Currently a **Junior Developer** at **Univerus Software Inc.**, building React UIs, C#/.NET plugins, and custom APIs for enterprise workflows
-- 🏛️ **2+ years** of software engineering internship experience with the **Government of Saskatchewan** & **Univerus**
+- 🎓 **BSc, (4yr). Computer Science** with a **Mathematics minor** 2026 graduate at the University of Saskatchewan.
+- 💼 Joining **Siemens EDA.** as a **Software Developer, AI Platform**, where I'll be building AI infrastructure & platforms that support EDA workflows.
+- 🏛️ **2+ years** of software engineering internship experience with the **Government of Saskatchewan** & **Univerus Software Inc.**
 - 🔭 Currently building **TraceReplay AI** — an audit-grade replay & lineage platform for enterprise AI agents for compliance, traceability, and debugging
 - 🏆 WUSC Student Refugee Program scholarship recipient · 2nd place at UofCalgary Fall Open Debate Championship
 
@@ -23,7 +23,7 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Junior Developer** | Univerus Software Inc. | Apr 2025 – Present |
+| **Junior Developer** | Univerus Software Inc. | Apr 2025 – Apr 2026 |
 | **Software Engineering Intern** | Government of Saskatchewan | May 2024 – Aug 2024 |
 | **Software Engineering Co-op Intern** | Government of Saskatchewan | Jan 2023 – Dec 2023 |
 
