@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **BSc, (4yr). Computer Science** with a **Mathematics minor** 2026 graduate at the University of Saskatchewan.
-- 💼 Joining **Siemens EDA.** as a **Software Developer, AI Platform**, where I'll be building AI infrastructure & platforms that support EDA workflows.
+- 💼 Joining **Siemens EDA** as a **Software Developer, AI Platform**, where I'll be building AI infrastructure & platforms that support EDA workflows.
 - 🏛️ **2+ years** of software engineering internship experience with the **Government of Saskatchewan** & **Univerus Software Inc.**
 - 🔭 Currently building **TraceReplay AI** — an audit-grade replay & lineage platform for enterprise AI agents for compliance, traceability, and debugging
 - 🏆 WUSC Student Refugee Program scholarship recipient · 2nd place at UofCalgary Fall Open Debate Championship
