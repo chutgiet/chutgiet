@@ -10,16 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=13" width="34%" />
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=13" width="39.52%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true&v=13" width="73.55%" />
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 **AI / ML & Platform**
@@ -50,12 +40,13 @@
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus_(Vector_DB)-00A1EA?style=flat-square&logo=milvus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white)
+
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -72,6 +63,16 @@
 ![LocalStack CLI](https://img.shields.io/badge/LocalStack_CLI-46B549?style=flat-square&logo=localstack&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=20.0&cache=false" width="46%" /><img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=20.0&cache=false" width="53.5%" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true&v=20.0&cache=false" width="99.5%" />
+</div>
 
 ---
 
