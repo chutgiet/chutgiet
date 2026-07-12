@@ -69,9 +69,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=20.0&cache=false" width="46%" /><img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=20.1&cache=false" width="53.5%" />
+<img src="https://github-readme-stats-chutgiets-projects.vercel.app/api?username=chutgiet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=20.1&cache=false" width="46%" /><img src="https://github-readme-stats-chutgiets-projects.vercel.app/api/top-langs/?username=chutgiet&layout=compact&theme=tokyonight&hide_border=true&v=20.1&cache=false" width="53.5%" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true&v=20.0&cache=false" width="99.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chutgiet&theme=tokyonight&hide_border=true&v=20.1&cache=false" width="99.5%" />
 </div>
 
 ---
