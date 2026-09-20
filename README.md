@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Chut 👋
-**Software Developer, AI Platform @ Siemens EDA by day, and start-up Co-founder by night· CS & Math @ University of Saskatchewan**
+**Software Developer, AI Platform @ Siemens EDA by day, and start-up Co-founder by night· <br>CS & Math @ University of Saskatchewan**
 <br>Building MCP servers, agentic systems, and AI platform infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chutgiet/)
