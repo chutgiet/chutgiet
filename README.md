@@ -12,20 +12,20 @@
 ### 🛠️ Tech Stack
 
 **AI / ML & Platform**
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-![Embeddings & Vector Retrieval](https://img.shields.io/badge/Embeddings_&_Vector_Retrieval-5C2D91?style=flat-square)
+![Multimodal RAG](https://img.shields.io/badge/Multimodal_RAG-FF6F00?style=flat-square)
+![Embeddings & Chunking](https://img.shields.io/badge/Embeddings_&_Chunking-5C2D91?style=flat-square)
 ![MCP Server Design](https://img.shields.io/badge/MCP_Server_Design-000000?style=flat-square)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-0F9D58?style=flat-square)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-7B1FA2?style=flat-square)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-AD1457?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1565C0?style=flat-square)
+![Evaluations](https://img.shields.io/badge/Evaluations-1565C0?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-FCC624?style=flat-square)
 ![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-D84315?style=flat-square)
 ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-00838F?style=flat-square)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -40,11 +40,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus_(Vector_DB)-00A1EA?style=flat-square&logo=milvus&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-00A1EA?style=flat-square&logo=opensearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apachecouchdb&logoColor=white)
 
 
 **Cloud & DevOps**
